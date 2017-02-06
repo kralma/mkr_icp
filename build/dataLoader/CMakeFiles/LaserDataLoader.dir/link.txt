@@ -1,2 +1,0 @@
-/usr/bin/ar qc libLaserDataLoader.a  CMakeFiles/LaserDataLoader.dir/laserDataLoader.cpp.o
-/usr/bin/ranlib libLaserDataLoader.a
